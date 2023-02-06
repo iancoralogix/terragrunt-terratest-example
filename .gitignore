@@ -1,0 +1,19 @@
+#  Local .terraform directories
+**/.terraform/
+
+# .tfstate files
+**/*.tfstate
+**/*.tfstate.*
+
+# .tfplan files
+**/*.tfplan
+
+# terragrunt-cache
+**/.terragrunt-cache/*
+
+# submodules?
+**/.git/
+
+# vim
+**/*.swp
+**/*.swo
